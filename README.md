@@ -1,9 +1,9 @@
 ## Oi, eu sou o Paulo Henrique e sigo desbravando o universo Java!
 <div style="display: inline_block"><br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/phsantanna">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phsantanna&show_icons=true&theme=radical" />
 </a>
-  <img align="center" src="  <img height=180 align= center src=https://github-readme-stats.vercel.app/api/top-langs/?username=Allansmesquita&layout=compact&theme=transparent&hide_title=false&bg_color=000&hide_border=true&show_icons=true&icon_color=30A3DC&title_color=0FFF50&text_color=FFF>
+  <img align="center" src="  <img height=180 align= center src=https://github-readme-stats.vercel.app/api/top-langs/?username=phsantanna&layout=compact&theme=transparent&hide_title=false&bg_color=000&hide_border=true&show_icons=true&icon_color=30A3DC&title_color=0FFF50&text_color=FFF>
 t" />
 </div>
 
