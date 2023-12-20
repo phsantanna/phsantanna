@@ -1,4 +1,4 @@
-### Oi, eu sou o Paulo Henrique e estou me especializando na Linguagem Java e seus Frameworks!
+### Oi, eu sou o Paulo Henrique e sigo desbravando o universo Java!
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phsantanna&show_icons=true&theme=radical" />
 </a>
