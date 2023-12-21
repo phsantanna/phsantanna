@@ -1,11 +1,6 @@
 ## Oi, eu sou o Paulo Henrique e sigo desbravando o universo Java!
-<div style="display: inline_block"><br>
-<a href="https://github.com/phsantanna">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phsantanna&show_icons=true&theme=tokyonight"/>
-</a>
-    <img height=180 align= center src=https://github-readme-stats.vercel.app/api/top-langs/?username=phsantanna&layout=compact&theme=tokyonight>
 
-</div>
+### aqui eu irei postar meus projetos e ideias que surgem no dia a dia 😁
 
 
 <div style="display: inline_block"><br>
