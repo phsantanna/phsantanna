@@ -1,4 +1,4 @@
-## Oi, eu sou o Paulo Henrique e sigo desbravando o universo Java!
+## Oi, eu sou o Paulo Henrique e este é meu github!
 
 ### aqui eu irei postar meus projetos e ideias que surgem no dia a dia 😁
 
